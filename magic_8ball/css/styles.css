@@ -1,0 +1,17 @@
+body {
+    background-color: cadetblue;
+    
+}
+
+#fortune{
+    background-color:aliceblue;
+    color: blue;
+    width: 200px;
+    height:145px;
+    border-radius:100px;
+    margin: 30px;
+    padding-top: 60px;
+    vertical-align: center;
+    text-align: center;
+    font-size: 30px;
+}
